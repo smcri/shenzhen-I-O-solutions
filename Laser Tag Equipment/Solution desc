@@ -1,1 +1,2 @@
-
+First screenshot hows a failed testcase. The player is alive, the trigger is on and the ammo is not zero so it should fire. But the fire pulse is 0.
+Second screenshot is a working solution
